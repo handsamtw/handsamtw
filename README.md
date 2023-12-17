@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![handsamtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=handsamtw)](https://github.com/anuraghazra/github-readme-stats)
+
+[![handsamtw's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=handsamtw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **handsamtw/handsamtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
