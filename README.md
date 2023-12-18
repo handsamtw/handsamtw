@@ -7,6 +7,7 @@
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=11149443188&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
 </p>
 
+<img width="80%" height="80%" src="map_with_polyline.png" />
 
 
 👋 Hi, I’m a software developer currently living at New York  
