@@ -7,7 +7,8 @@
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=11149443188&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
 </p>
 
-<img width="80%" height="80%" alt="map_with_polyline.png" src="http://localhost:8000/hey"/>
+## My recent Strava activity
+<img width="500" height="300" alt="test photo" src="https://hv28eggt89.execute-api.us-east-1.amazonaws.com/api/658500cb860fa52922b29b98"/>
 
 
 👋 Hi, I’m a software developer currently living at New York  
