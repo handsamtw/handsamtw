@@ -8,7 +8,7 @@
 </p>
 
 ## My recent Strava activity
-<img width="500" height="300" alt="test photo" src="https://hv28eggt89.execute-api.us-east-1.amazonaws.com/api/658500cb860fa52922b29b98"/>
+<img width="500" height="300" alt="test photo" src="https://hv28eggt89.execute-api.us-east-1.amazonaws.com/api/6587b6686b54f031cf1147d8"/>
 
 
 👋 Hi, I’m a software developer currently living at New York  
