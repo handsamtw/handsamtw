@@ -1,14 +1,15 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=handsamtw&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+### GitHub Stats
 [![handsamtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=handsamtw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### Most recently played Song
 <p align="left">
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=11149443188&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
 </p>
 
-## My recent Strava activity
-<img width="500" height="300" alt="test photo" src="https://hv28eggt89.execute-api.us-east-1.amazonaws.com/api/6587b6686b54f031cf1147d8"/>
+### My Strava Calendar
+<img width="500" height="300" alt="test photo" src="https://strava-calender-api.vercel.app/calendar?uid=659225a6c32b7c5ff290265e&theme=Reds&sport_type=Run&as_image=True"/>
 
 
 👋 Hi, I’m a software developer currently living at New York  
