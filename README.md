@@ -9,7 +9,7 @@
 </p>
 
 ### My Strava Calendar
-<img width="500" height="300" alt="My Strava Calendar" src="https://strava-calender-api.vercel.app/calendar?uid=659797c0598c81bcfeb223de&theme=Reds&sport_type=Run&as_image=True"/>
+<img width="500" height="300" alt="My Strava Calendar" src="https://strava-calender-api.vercel.app/calendar?uid=65985d9ef1bd9d46ad69ab66&theme=BuGn&sport_type=run&as_image=True"/>
 
 
 👋 Hi, I’m a software developer currently living at New York  
