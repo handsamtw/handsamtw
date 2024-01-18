@@ -32,6 +32,16 @@
 
 
 👋 Hi, I’m a software developer currently living at New York  
-👀 I’m interested in Marathon and Cycling  
-📖 I’m currently studying at Carnegie Mellon University ...  
+📖 Graduated from CMU MISM, Pittsburgh  
+🔥 I am passionate about running, cycling, and Chess  
 
+
+## Reach me via
+<p>
+	<a href="https://www.linkedin.com/in/shousanliao/">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="mailto:samliao.work.2023@gmail.com">
+		<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+	</a>
+</p>
