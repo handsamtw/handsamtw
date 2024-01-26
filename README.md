@@ -34,7 +34,7 @@
 </p>
 
 ### My Strava Calendar for Running  
-<img width="500" height="300" alt="My Strava Calendar" src="https://strava-calender-api.vercel.app/calendar?uid=65a6f20fa2854f9cfc2caa1d&theme=Blues&sport_type=run&as_image=True"/>
+<img width="700" height="300" alt="My Strava Calendar" src="https://strava-calender-api.vercel.app/calendar?uid=65b2be35c43f6a1874375c15&theme=Blues&sport_type=run&as_image=True"/>
 
 
 
