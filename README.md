@@ -33,8 +33,8 @@
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=11149443188&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
 </p>
 
-### My Strava Calendar for Running  
-<img width="700" height="300" alt="My Strava Calendar" src="https://strava-calender-api.vercel.app/calendar?uid=65b2be35c43f6a1874375c15&theme=Blues&sport_type=run&as_image=True"/>
+### Check out my Strava Calendar
+<img width="800" height="400" alt="My Strava Calendar" src="https://strava-calender-api.vercel.app/calendar?uid=65b3ff8885b50ca55dcd2ba1&theme=PuBu&sport_type=run&as_image=True"/>
 
 
 
