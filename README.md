@@ -34,7 +34,7 @@
 </p>
 
 ### Check out my Strava Calendar
-<img width="800" height="400" alt="My Strava Calendar" src="https://strava-calender-api.vercel.app/calendar?uid=65b3ff8885b50ca55dcd2ba1&theme=PuBu&sport_type=run&as_image=True"/>
+<img width="800" height="400" alt="My Strava Calendar" src="https://strava-calender-api.vercel.app/calendar?uid=65b9d33be2f153d5c13d49ce&theme=Reds&sport_type=run&as_image=True"/>
 
 
 
