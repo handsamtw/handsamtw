@@ -34,7 +34,7 @@
 </p>
 
 ### My running journey on Strava
-<img width="700" alt="My Strava Calendar" src="./samliao's run.png"/>
+<img width="700" alt="My Strava Calendar" src="./slrun.png"/>
 
 
 
